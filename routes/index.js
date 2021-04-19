@@ -7,4 +7,8 @@ router.get('*', function(req, res, next) {
   res.render('index.html');
 });
 
+// add new route 
+
+// get page 
+
 module.exports = router;
